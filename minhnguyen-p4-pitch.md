@@ -1,4 +1,4 @@
-# App name: Covid Tracking 
+# App name: Covid Tracker 
 # Team members: Minh Nguyen
 
 
